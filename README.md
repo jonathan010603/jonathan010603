@@ -1,4 +1,8 @@
-### Welcome to my profile!
+### Hey everyone, welcome to my profile
+
+- I'm studying Front-End development with React and Node;
+- My main goal is to be a great Fullstack Developer;
+- By this moment, I'm working on the "Personal-Website-Project" repo, where I'm building my own portfolio site;
 
 <!--
 **jonathan010603/jonathan010603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
