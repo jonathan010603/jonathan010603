@@ -4,6 +4,8 @@
 - My main goal is to be a great Fullstack Developer;
 - By this moment, I'm working on the "Personal-Website-Project" repo, where I'm building my own portfolio site;
 
+https://www.linkedin.com/in/dsjonat/
+
 <!--
 **jonathan010603/jonathan010603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
