@@ -1,4 +1,4 @@
-### Hey everyone, welcome to my profile
+### Hey everyone, welcome to my profile!
 
 - I'm studying Front-End development with React and Node;
 - My main goal is to be a great Fullstack Developer;
