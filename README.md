@@ -2,7 +2,7 @@
 
 - I'm studying Front-End development with React and Node;
 - My main goal is to be a great Fullstack Developer;
-- By this moment, I'm working on the "Personal-Website-Project" repo, where I'm building my own portfolio site;
+- Currently, I'm working on the "Personal-Website-Project" repo, where I'm building my own portfolio site;
 
 https://www.linkedin.com/in/dsjonat/
 
