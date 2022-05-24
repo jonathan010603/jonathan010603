@@ -1,8 +1,6 @@
 ### Hey everyone, welcome to my profile!
 
-- I'm studying Front-End development with React and Node;
-- My main goal is to be a great Fullstack Developer;
-- Currently, I'm working on the "Personal-Website-Project" repo, where I'm building my own portfolio site;
+- Studying Front-End development;
 
 https://www.linkedin.com/in/dsjonat/
 
