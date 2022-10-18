@@ -1,6 +1,6 @@
 ### Hey everyone, welcome to my profile!
 
-- Studying Front-End development;
+##Front-End development;
 
 https://www.linkedin.com/in/dsjonat/
 
