@@ -1,6 +1,6 @@
 ### Hey everyone, welcome to my profile!
 
-Front-End development;
+Front-end development
 
 https://www.linkedin.com/in/dsjonat/
 
