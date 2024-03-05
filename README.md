@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan010603&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan010603" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathan010603" alt="jonathan010603" /></a> </p>
-
 - 👶 Learning software development since 2014
 
 - 🔭 Currently working as a Full Stack Developer at [Ticket Mais](https://ticketmais.com.br/)
