@@ -1,11 +1,6 @@
 <h1 align="center">My name is Jonathan da Silva</h1>
 <h3 align="center">I'm a Software developer based in Santa Catarina, Brazil</h3>
 
-
-- 👶 Learning software development since 2014
-
-- 🔭 Currently working as a Full Stack Developer at [Ticket Mais](https://ticketmais.com.br/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dsjonat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsjonat" height="30" width="40" /></a>
