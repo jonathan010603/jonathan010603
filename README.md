@@ -1,6 +1,7 @@
 <h1 align="center">My name is Jonathan da Silva</h1>
 <h3 align="center">I'm a Software developer based in Santa Catarina, Brazil</h3>
 
+
 - 👶 Learning software development since 2014
 
 - 🔭 Currently working as a Full Stack Developer at [Ticket Mais](https://ticketmais.com.br/)
