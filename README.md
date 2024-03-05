@@ -1,8 +1,6 @@
 <h1 align="center">My name is Jonathan da Silva</h1>
 <h3 align="center">I'm a Software developer based in Santa Catarina, Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan010603&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan010603" /> </p>
-
 - 👶 Learning software development since 2014
 
 - 🔭 Currently working as a Full Stack Developer at [Ticket Mais](https://ticketmais.com.br/)
