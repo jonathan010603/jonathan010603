@@ -1,5 +1,4 @@
-<h1 align="center">My name is Jonathan da Silva</h1>
-<h3 align="center">I'm a Software developer based in Santa Catarina, Brazil</h3>
+<h1 align="center">Software developer based in Santa Catarina, Brazil</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
